@@ -1,0 +1,19 @@
+Imagine being able to access your music, documents, and videos from a browser anywhere you have internet
+access.
+
+Idea is to access your documents through a centralized server that caches your data as you access it,
+forming a sort of hybrid cloud computing environment.
+
+
+		LAN										LAN
+client------------------------------------ internet --------- hybrid cloud computing server ---------- your media server
+(can be an app on a mobile device,
+a browser on a mobile device,
+browser on another computer,
+browser on a console gaming system,
+etc..)
+
+
+hybrid cloud server can also aggregate multiple media servers, allowing you have access to all of your data
+on different computers at once
+
